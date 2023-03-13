@@ -1,0 +1,24 @@
+#命令输入
+“/osppilbyid MondoVolume /osppsethst:kms.loli.beer /osppsetprt:1688 /osppact
+
+
+#KMS主机
+kms.loli.beer
+kms.loli.best
+kms.03k.org
+kms.cangshui.net
+kms.cary.tech
+kms.catqu.com
+kms.cgtsoft.com
+kms.ghpym.com
+kms.mc06.net
+kms.moeyuuko.top
+kms.sixyin.com
+kms.wlrxy.cn
+kms.wxlost.com
+xincheng213618.cn
+s8.uk.to
+---------------------默认端口1688
+
+#查询使用时间
+C:\Program Files\Microsoft Office\Office16>cscript ospp.vbs /dstatus
